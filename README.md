@@ -1,4 +1,4 @@
-# **Python Projects**
+# **Basic Python Projects**
 
 This repository is a small collection of beginner‑friendly Python programs to test out my basic understandings.
 
